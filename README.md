@@ -3,7 +3,7 @@
 <h2>👨‍💻 Please feel free to take a look at some of my favorite information technology projects below:</h2>
 
 - <b>Active Directory Configuration and Group Policy Object Deployments</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Configuring Active Directory within Azure VMs](https://github.com/cybersecuritim/configure-ad)
 - <b>osTicket Configuration and Simulated Use in the cloud(Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
