@@ -4,7 +4,7 @@
 
 - <b>Active Directory Configuration and Group Policy Object Deployments</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b>osTicket Configuration and Simulated Use(Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
