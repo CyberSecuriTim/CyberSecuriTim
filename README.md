@@ -1,6 +1,6 @@
-<h1>Hello, my name is Timothy Hay, an <a href="https://www.linkedin.com/in/cybersecuritim/">aspring IT Professional</a>☺</h1>
+<h1>Hello, my name is Timothy Hay, an aspiring <a href="https://www.linkedin.com/in/cybersecuritim/">IT Professional</a>☺</h1>
 
-<h2>👨‍💻 Feel Free to take a look at some of my information technology projects below:</h2>
+<h2>👨‍💻 Please feel free to take a look at some of my favorite information technology projects below:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
