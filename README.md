@@ -7,7 +7,7 @@
 - <b>osTicket Configuration and Simulated Use in the cloud(Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/CyberSecuriTim/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/CyberSecuriTim/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/CyberSecuriTimticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/CyberSecuriTim/ticket-lifecycle)
 - <b>Network Protocol Analysis in the cloud</b>
   - [Manipulating Azure Network Security Groups (NSGs) and Inspecting Network Protocols using Wireshark](https://github.com/CyberSecuriTim/azure-network-protocols)
 
