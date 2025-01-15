@@ -1,4 +1,4 @@
-<h1>Hello, my name is Timothy Hay, an aspiring <a href="https://www.linkedin.com/in/cybersecuritim/">IT/Cybersecurity Professional</a>☺</h1>
+<h1>Hello, I am Timothy Hay, an aspiring <a href="https://www.linkedin.com/in/cybersecuritim/">IT/Cybersecurity Professional</a>☺</h1>
 
 <h2>👨‍💻 Please feel free to take a look at some of my favorite information technology projects below:</h2>
 
