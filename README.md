@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Please feel free to take a look at some of my favorite information technology projects below:</h2>
 
-- <b>Active Directory Configuration and Group Policy Object Deployments</b>
+- <b>Active Directory Configuration and Group Policy Object Deployment</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/cybersecuritim/ad-configuration)
   - [Deploying Group Policy Objects within a Windows AD domain](https://github.com/CyberSecuriTim/ad-gpo-deployment)
 - <b>osTicket Configuration and Ticket Triaging in the Cloud (Help Desk Ticketing System)</b>
