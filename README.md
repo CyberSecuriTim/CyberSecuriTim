@@ -5,7 +5,7 @@
 - <b>Active Directory Configuration and Group Policy Object Deployments</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/cybersecuritim/ad-configuration)
   - [Deploying Group Policy Objects within a Windows AD domain](https://github.com/CyberSecuriTim/ad-gpo-deployment)
-- <b>osTicket Configuration and Ticket Triaging in the Cloud(Help Desk Ticketing System)</b>
+- <b>osTicket Configuration and Ticket Triaging in the Cloud (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/CyberSecuriTim/osticket-installation)
   - [osTicket: Post-Installation Configuration](https://github.com/CyberSecuriTim/osticket-post-install-config)
   - [osTicket: Ticket Lifecycle Simulated Exercise](https://github.com/CyberSecuriTim/osticket-ticket-lifecycle)
