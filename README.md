@@ -11,6 +11,8 @@
   - [osTicket: Ticket Lifecycle Simulated Exercise](https://github.com/CyberSecuriTim/osticket-ticket-lifecycle)
 - <b>Network Protocol Analysis in the cloud</b>
   - [Manipulating Azure Network Security Groups (NSGs) and Analyzing Network Traffic using Wireshark](https://github.com/CyberSecuriTim/azure-network-protocols)
+- <b>DNS Done Simply</b>
+  - [A High Level Overview to Build Intuition for the Domain Name System (DNS)](https://github.com/CyberSecuriTim/dns-overview)
 
 <h2>🤳Connect with me:</h2>
 
